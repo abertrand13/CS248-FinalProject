@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce664067bea2940a896b2059fb4b654d
+timeCreated: 1528440621
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fish: {instanceID: 0}
+  - targetPointPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

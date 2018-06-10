@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{071642FA-72BA-780E-E90E-D36350D82745}") = "Fish", "Assembly-CSharp-firstpass.csproj", "{DCF65927-5E8D-EDE9-5785-310F92A154D7}"
+EndProject
+Project("{071642FA-72BA-780E-E90E-D36350D82745}") = "Fish", "Assembly-CSharp.csproj", "{05A4E7E8-3B49-606D-5ABB-207B603E5081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF65927-5E8D-EDE9-5785-310F92A154D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF65927-5E8D-EDE9-5785-310F92A154D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF65927-5E8D-EDE9-5785-310F92A154D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF65927-5E8D-EDE9-5785-310F92A154D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A4E7E8-3B49-606D-5ABB-207B603E5081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A4E7E8-3B49-606D-5ABB-207B603E5081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A4E7E8-3B49-606D-5ABB-207B603E5081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A4E7E8-3B49-606D-5ABB-207B603E5081}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
